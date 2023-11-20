@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+int n, k, a[100000], s, ans;
+int main()
+{
+    cin>>n>>k;
+    for (int i=1; i<=n; i++) cin>>a[i];
+    int l=1, r=1;
+    for(int r=1; r<=n; r++){
+        s=l+r;
+        if(s==k)
+            ans++;
+        else
+            s-=r;
+    }
+    cout<<ans;
+    return 0;
+}
