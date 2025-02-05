@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\PC\OneDrive\Máy tính\Segment tree VNOI\Educational Segment Tree Contest - ITMIX\main.cpp(7,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Segment tree VNOI\Educational Segment Tree Contest - ITMIX\main.cpp(8,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Segment tree VNOI\Educational Segment Tree Contest - ITMIX\main.cpp(15,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Segment tree VNOI\Educational Segment Tree Contest - ITMIX\main.cpp(29,13): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Segment tree VNOI\Educational Segment Tree Contest - ITMIX\main.cpp(43,13): warning C4244: '*=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\PC\OneDrive\Máy tính\Segment tree VNOI\Educational Segment Tree Contest - ITMIX\main.cpp(57,12): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Educational Segment Tree Contest - ITMIX.vcxproj -> C:\Users\PC\OneDrive\Máy tính\Segment tree VNOI\Educational Segment Tree Contest - ITMIX\x64\Debug\Educational Segment Tree Contest - ITMIX.exe
